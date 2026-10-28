@@ -1,0 +1,16 @@
+{
+  "name": "grok-discord-bot",
+  "version": "1.0.0",
+  "description": "Grok Discord bot with free modules (free Grok API via xAI free tier, DuckDuckGo search, Jisho dictionary)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
